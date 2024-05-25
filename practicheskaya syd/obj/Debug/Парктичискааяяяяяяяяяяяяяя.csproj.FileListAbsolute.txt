@@ -1,0 +1,58 @@
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe.config
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\bin\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.AssemblyReference.cache
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.SuggestedBindingRedirects.cache
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form1.resources
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form2.resources
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Properties.Resources.resources
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.GenerateResource.cache
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.CoreCompileInputs.cache
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form3.resources
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\bin\Debug\Interop.WMPLib.dll
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Interop.WMPLib.dll
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\all_local\Desktop\Парктичискааяяяяяяяяяяяяяя\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.ResolveComReference.cache
+E:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe.config
+E:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+E:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+E:\Практическая суд\bin\Debug\Interop.WMPLib.dll
+E:\Практическая суд\bin\Debug\AxInterop.WMPLib.dll
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.AssemblyReference.cache
+E:\Практическая суд\obj\Debug\Interop.WMPLib.dll
+E:\Практическая суд\obj\Debug\AxInterop.WMPLib.dll
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.ResolveComReference.cache
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form1.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form2.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form3.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Properties.Resources.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.GenerateResource.cache
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.CoreCompileInputs.cache
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+D:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe.config
+D:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+D:\Практическая суд\bin\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+D:\Практическая суд\bin\Debug\Interop.WMPLib.dll
+D:\Практическая суд\bin\Debug\AxInterop.WMPLib.dll
+D:\Практическая суд\obj\Debug\Interop.WMPLib.dll
+D:\Практическая суд\obj\Debug\AxInterop.WMPLib.dll
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.ResolveComReference.cache
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form1.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form2.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form3.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Properties.Resources.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.GenerateResource.cache
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.CoreCompileInputs.cache
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.exe
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.pdb
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.csproj.AssemblyReference.cache
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form4.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form5.resources
+D:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form6.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form4.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form5.resources
+E:\Практическая суд\obj\Debug\Парктичискааяяяяяяяяяяяяяя.Form6.resources
